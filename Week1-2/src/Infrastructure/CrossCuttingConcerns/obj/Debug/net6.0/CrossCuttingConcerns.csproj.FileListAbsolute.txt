@@ -1,0 +1,12 @@
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\bin\Debug\net6.0\CrossCuttingConcerns.deps.json
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\bin\Debug\net6.0\CrossCuttingConcerns.dll
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\bin\Debug\net6.0\CrossCuttingConcerns.pdb
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.dll
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\refint\CrossCuttingConcerns.dll
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\CrossCuttingConcerns.pdb
+C:\Users\hkncl\Desktop\Param\Hafta1\src\Infrastructure\CrossCuttingConcerns\obj\Debug\net6.0\ref\CrossCuttingConcerns.dll
