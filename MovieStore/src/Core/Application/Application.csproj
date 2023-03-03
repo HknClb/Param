@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CrossCuttingConcerns\CrossCuttingConcerns.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Auth\Constants\" />
+    <Folder Include="Features\Auth\Models\" />
+    <Folder Include="Features\Auth\Profiles\" />
+    <Folder Include="Features\Auth\Queries\" />
+    <Folder Include="Features\Directors\Constants\" />
+    <Folder Include="Features\Movies\Constants\" />
+    <Folder Include="Features\Orders\Constants\" />
+    <Folder Include="Features\Stars\Constants\" />
+    <Folder Include="Features\Template\Commands\" />
+    <Folder Include="Features\Template\Constants\" />
+    <Folder Include="Features\Template\Dtos\" />
+    <Folder Include="Features\Template\Models\" />
+    <Folder Include="Features\Template\Profiles\" />
+    <Folder Include="Features\Template\Queries\" />
+    <Folder Include="Features\Template\Rules\" />
+    <Folder Include="Features\Users\Constants\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.5.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.1" />
+    <PackageReference Include="MediatR" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.25" />
+  </ItemGroup>
+
+</Project>
